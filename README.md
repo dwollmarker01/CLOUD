@@ -4,7 +4,7 @@ A project for the lecture "Verteilte Systeme & Cloud-Technologien" @University o
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Please check out Documentation.md before you start using our "Energiegemeinschaft".
 
 ### Prerequisites
 
@@ -34,16 +34,6 @@ $ Second example
 $ And keep this in mind
 ```
 
-## Deployment
-
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
-
-### Server
-
-* Live:
-* Release:
-* Development:
-
 ### Branches
 
 * Master:
@@ -51,9 +41,3 @@ Additional notes on how to deploy this on a live or release system. Explaining t
 * Bugfix:
 * etc...
 
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
