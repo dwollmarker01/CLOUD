@@ -24,3 +24,4 @@ Advantages of object oriented languages:
 Terminoglogy: 
 Secure by Design means that security is a core business case during the development of a software product. 
 During the design phase the exploitable flaws should already be decreased to create a trustworthy envrionment for the customer. 
+If possible Multi-Factor-Authentication and Single-Sign-On should be in place. 
